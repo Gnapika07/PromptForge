@@ -112,6 +112,18 @@ These are preliminary results, not an independent benchmark. Some scores were lo
 - Evaluate downstream answers with task-specific metrics.
 - Add prompt history and side-by-side comparison.
 
+## Screenshots
+
+### Main Interface
+![PromptForge main interface](screenshots/main-interface.png)
+
+### Optimized Prompt
+![PromptForge optimized prompt](screenshots/optimized-prompt.png)
+
+### Quality Analysis
+![PromptForge quality analysis](screenshots/quality-analysis.png)
+
+
 ## Security
 Never commit `.env`, API keys, tokens, or the virtual environment. If a secret is accidentally published, revoke or rotate it immediately.
 
